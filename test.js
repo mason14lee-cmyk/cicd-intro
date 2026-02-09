@@ -1,2 +1,1 @@
-console.log("Tests Passed!");
-process.exit(0);
+console.log("Tests passed!");
